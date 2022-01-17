@@ -1,0 +1,21 @@
+.card-project {
+  margin-top: 4.25rem;
+
+  @include sm {
+    margin-top: 2rem;
+  }
+
+  &-down {
+    margin-top: 8.5rem;
+
+    @include sm {
+      margin-top: 2rem;
+    }
+  }
+  &-img {
+    width: 100%;
+  }
+  &-body {
+    margin-top: 1rem;
+  }
+}

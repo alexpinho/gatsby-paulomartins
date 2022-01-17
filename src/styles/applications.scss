@@ -1,0 +1,18 @@
+@import "./variables.scss";
+@import "./flexboxgrid.scss";
+@import "./breakpoints.scss";
+
+@import "./components/navbar.scss";
+@import "./components/footer.scss";
+
+@import "./components/customcursor/customcursor.scss";
+@import "./components/cardProject.scss";
+@import "./components/cardAward.scss";
+@import "./components/cardJobs.scss";
+@import "./components/project-preview.scss";
+@import "./components/cardTeam.scss";
+
+@import "./pages/index.scss";
+@import "./pages/jobs.scss";
+@import "./pages/portfolio.scss";
+@import "./pages/atelier.scss";

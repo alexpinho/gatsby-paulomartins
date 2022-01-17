@@ -1,0 +1,85 @@
+.footer {
+  background-color: $primary-color;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: sticky;
+  padding: 6rem 7rem 3rem;
+  z-index: 2;
+
+  @include sm {
+    display: block;
+    padding: 4rem 1rem;
+  }
+
+  &-logo {
+    width: 20rem;
+  }
+
+  &-text {
+    color: $secondary-color;
+    letter-spacing: 0.08rem;
+  }
+
+  &-form-newsletter {
+    &-area {
+      display: flex;
+      margin-top: 2.5rem;
+    }
+
+    &-input {
+      background-color: $primary-color;
+      display: block;
+      text-transform: none;
+      width: 15rem;
+      border: 0;
+      border-bottom: 2px solid $secondary-color;
+
+      font-family: "HelveticaNeue-Light";
+      font-size: 1rem;
+      font-weight: 300;
+      line-height: 1.25rem;
+
+      &:focus,
+      &:active {
+        border-bottom: 2px solid $secondary-color;
+        outline: 0;
+        color: $secondary-color;
+      }
+    }
+
+    &-button {
+      background-color: $secondary-color;
+      color: $primary-color;
+      letter-spacing: 0.08rem;
+      padding: 0.5rem;
+      font-weight: 400;
+      border: 0;
+      cursor: pointer;
+    }
+  }
+
+  &-social {
+    &-area {
+      list-style: none;
+      display: flex;
+      text-align: center;
+      margin-top: 1.25rem;
+
+      &-elements {
+        padding: 1rem;
+        border: 1px solid $secondary-color;
+        border-radius: 100%;
+        width: 4rem;
+        margin-right: 1rem;
+        cursor: pointer;
+
+        &-text {
+          text-decoration: none;
+          color: $secondary-color;
+          letter-spacing: 0.08rem;
+        }
+      }
+    }
+  }
+}

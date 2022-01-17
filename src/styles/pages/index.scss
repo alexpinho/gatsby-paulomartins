@@ -1,0 +1,262 @@
+.home {
+  &-hero {
+    padding: 0 7rem 24rem;
+
+    // @include xl {
+    //   padding: 0 3rem 24rem;
+    // }
+    @include sm {
+      padding: 0 1rem 4rem;
+    }
+
+    &-banner {
+      position: absolute;
+      top: 28rem;
+      right: 7rem;
+      padding: 0;
+      z-index: -1;
+      object-fit: cover;
+
+      @include sm {
+        position: relative;
+        top: -2rem;
+        right: 0;
+        max-width: 100%;
+        height: 28rem;
+      }
+      // @include xl {
+      //   top: 22rem;
+      //   right: 3rem;
+      // }
+    }
+  }
+
+  &-portfolio {
+    border-top: 1px solid $primary-color;
+    padding: 0 7rem 7rem;
+
+    // @include xl {
+    //   padding: 0 3rem 24rem;
+    // }
+    @include sm {
+      padding: 0 1rem 4rem;
+    }
+
+    &-intro {
+      margin-top: 2rem;
+      display: flex;
+      justify-content: space-between;
+
+      @include sm {
+        margin-top: 1rem;
+        display: flow-root;
+      }
+
+      &-mobile {
+        display: contents;
+
+        @include sm {
+          display: flex;
+          width: 100%;
+          padding-top: 1rem;
+          justify-content: space-between;
+        }
+      }
+
+      &-left {
+        float: left;
+        margin-top: 1rem;
+      }
+
+      &-center {
+        padding-left: 10%;
+
+        @include sm {
+          padding-left: 0;
+        }
+      }
+
+      &-right {
+        float: right;
+        margin-top: 1rem;
+      }
+    }
+
+    &-note {
+      margin-top: 2rem;
+      margin-left: 35%;
+      max-width: 17rem;
+      margin-bottom: 0;
+
+      @include sm {
+        margin-left: 10%;
+        max-width: 100%;
+        margin-bottom: 3srem;
+      }
+    }
+  }
+
+  &-portfolio-projects {
+    .card-project-1 {
+      margin-left: 17%;
+      max-width: 58%;
+
+      @include md {
+        margin-left: 0;
+        max-width: 100%;
+        flex: 0 0 auto;
+      }
+    }
+
+    .card-project-2 {
+      max-width: 33%;
+
+      @include md {
+        max-width: 100%;
+        flex: 0 0 auto;
+      }
+    }
+
+    .card-project-3 {
+      max-width: 66%;
+
+      @include md {
+        max-width: 100%;
+        flex: 0 0 auto;
+      }
+    }
+
+    .card-project-4 {
+      max-width: 90%;
+
+      @include md {
+        max-width: 100%;
+        flex: 0 0 auto;
+      }
+    }
+
+    .card-project-5 {
+      margin-left: 8%;
+      max-width: 40%;
+
+      @include md {
+        margin-left: 0;
+        max-width: 100%;
+        flex: 0 0 auto;
+      }
+    }
+
+    .card-project-6 {
+      max-width: 50%;
+
+      @include md {
+        max-width: 100%;
+      }
+    }
+
+    &-row {
+      display: flex;
+      justify-content: space-between;
+
+      @include md {
+        display: inline;
+      }
+    }
+  }
+
+  &-jobs {
+    border-top: 1px solid $primary-color;
+    padding: 0 7rem;
+    position: relative;
+
+    @include sm {
+      padding: 0 1rem;
+    }
+
+    &-text {
+      max-width: 70%;
+      position: relative;
+      margin: 14rem auto 23rem;
+      text-align: center;
+
+      @include sm {
+        max-width: 100%;
+        margin: 23rem auto;
+      }
+    }
+  }
+
+  &-awards {
+    border-top: 1px solid $primary-color;
+    padding-bottom: 7rem;
+
+    &-intro {
+      padding: 2rem 7rem 0;
+      display: flex;
+      justify-content: space-between;
+
+      @include sm {
+        padding: 1rem 1rem 0;
+        display: flow-root;
+      }
+
+      &-mobile {
+        display: contents;
+
+        @include sm {
+          display: flex;
+          width: 100%;
+          padding-top: 1rem;
+          justify-content: space-between;
+        }
+      }
+
+      &-left {
+        float: left;
+        margin-top: 1rem;
+      }
+
+      &-right {
+        float: right;
+        margin-top: 1rem;
+      }
+    }
+
+    &-wrapper {
+      padding-left: 7rem;
+      width: 100%;
+      display: flex;
+      overflow-x: auto;
+
+      @include sm {
+        padding-left: 1rem;
+      }
+
+      &::-webkit-scrollbar {
+        width: 0;
+      }
+    }
+  }
+
+  &-contact {
+    border-top: 1px solid $primary-color;
+    padding: 0 7rem;
+    position: relative;
+
+    @include sm {
+      padding: 0 1rem;
+    }
+
+    &-text {
+      max-width: 100%;
+      position: relative;
+      margin: 23rem auto 14rem;
+      text-align: center;
+
+      @include sm {
+        max-width: 100%;
+        margin: 23rem auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.jobs {
+  &-hero {
+    padding: 0 7rem 0;
+
+    .text-note {
+      padding-top: 2.8rem;
+    }
+  }
+
+  &-wrapper {
+    display: flex;
+    padding: 0 7rem 7rem;
+    gap: 3rem;
+  }
+}

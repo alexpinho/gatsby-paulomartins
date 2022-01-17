@@ -1,0 +1,19 @@
+.project-preview {
+  padding-bottom: 1.5rem;
+
+  &-title {
+    display: none;
+    padding-top: 0.5rem;
+    position: absolute;
+    text-transform: uppercase;
+    max-width: 100%;
+
+    @include md {
+      display: flex;
+    }
+  }
+
+  &:hover .project-preview-title {
+    display: flex;
+  }
+}

@@ -1,0 +1,82 @@
+.atelier {
+  &-hero {
+    padding: 0 7rem 22rem;
+
+    &-banner {
+      position: absolute;
+      top: 18rem;
+      right: 16.5rem;
+      padding: 0;
+      z-index: -1;
+
+      @include md {
+        position: absolute;
+        top: 18rem;
+        right: 10%;
+        width: 100%;
+      }
+      @include sm {
+        position: absolute;
+        top: 18rem;
+        right: 10%;
+        width: 100%;
+      }
+    }
+  }
+
+  &-information {
+    margin-top: -8rem;
+    padding-bottom: 5rem;
+    .text {
+      border-top: 1px solid black;
+      margin-top: 7rem;
+      padding-top: 1.5rem;
+
+      @include md {
+        margin-top: 2rem;
+        padding-top: 2rem;
+      }
+
+      @include sm {
+        margin-top: 2rem;
+        padding-top: 2rem;
+      }
+
+      @include sm {
+        padding-top: 0.5rem;
+      }
+    }
+
+    @include sm {
+      margin-top: -17rem;
+      padding-bottom: 5rem;
+    }
+  }
+
+  &-team {
+    border-top: 1px solid $primary-color;
+  }
+
+  &-wrapper {
+    padding-left: 7rem;
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+
+    &::-webkit-scrollbar {
+      width: 0;
+    }
+  }
+
+  &-quote {
+    padding: 10rem 7rem 15rem;
+
+    @include md {
+      padding: 9rem 4rem 15rem;
+    }
+
+    @include sm {
+      padding: 4rem 4rem 7rem;
+    }
+  }
+}

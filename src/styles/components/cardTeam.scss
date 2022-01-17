@@ -1,0 +1,21 @@
+.card-team {
+  margin-top: 4.25rem;
+  padding-right: 1rem;
+
+  &-img {
+    width: 100%;
+  }
+
+  &-body {
+    margin-top: 1rem;
+    width: 100%;
+    @include md {
+      margin-top: 0.5rem;
+    }
+  }
+
+  &-job {
+    text-transform: uppercase;
+    margin-top: 0.1rem;
+  }
+}

@@ -1,0 +1,782 @@
+[
+    {
+        "id": "1",
+        "title": "Sede Lacticoop",
+        "slug": "project-1",
+        "cliente": "Lacticoop",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "",
+        "estado": "em obra",
+        "ano": "2020",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem1.jpg"
+    },
+
+    {
+        "id": "2",
+        "title": "R069",
+        "slug": "project-2",
+        "cliente": "Confidencial",
+        "local": "Cabeço de Vide . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Licenciamento",
+        "ano": "2021",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem2.jpg"
+    },
+
+    {
+        "id": "3",
+        "title": "H047",
+        "slug": "project-3",
+        "cliente": "Confidencial",
+        "local": "Sever do Vouga . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Licenciamento",
+        "ano": "2021",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem3.jpg"
+    },
+
+    {
+        "id": "4",
+        "title": "H053",
+        "slug": "project-4",
+        "cliente": "Confidencial",
+        "local": "ílhavo . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Prévio",
+        "ano": "2021",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem4.jpg"
+    },
+
+    {
+        "id": "5",
+        "title": "H058",
+        "slug": "project-5",
+        "cliente": "Confidencial",
+        "local": "Sever do Vouga . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Prévio",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem5.jpg"
+    },
+
+    {
+        "id": "6",
+        "title": "H038",
+        "slug": "project-6",
+        "cliente": "Confidencial",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Prévio",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem6.jpg"
+    },
+
+    {
+        "id": "7",
+        "title": "Morgado da Granja",
+        "slug": "project-7",
+        "cliente": "Garrido de Matos - Invest, S.A.",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "1000 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem7.jpg"
+    },
+
+    {
+        "id": "8",
+        "title": "Casa dos Oleiros",
+        "slug": "project-8",
+        "cliente": "Mémore",
+        "local": "Castelo Branco . Portugal",
+        "area-bruta": "110 m2",
+        "estado": "Construído",
+        "ano": "2020",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Esta moradia situa-se na zona antiga da cidade, em Castelo Branco, votada a um crescente abandono nos últimos anos. Em resposta a essa tendência, esta intervenção pretendeu assumir contornos de arquétipo, tentando estabelecer uma tendência na ocupação urbanística da cidade: a revitalização urbana do centro histórico e a sua ocupação por estratos mais jovens, devolvendo a dinâmica a essa parte da cidade. Seguindo esta intenção, a intervenção consistiu em manter o aspecto original da moradia, pelo exterior, enquanto que, no interior, os espaços foram readaptados aos padrões de conforto e vivência actuais, sendo revestidos de uma minimalista contemporaneidade. Programaticamente a casa organiza-se em 2 pisos e mezanine, sendo o piso do r/c reservado aos espaços de descanso, por razões lumínicas, e os pisos superiores destinados a albergar as zonas sociais. Nestes pisos superiores, aos quais se acede pela escadaria original do edifício, recuperamos a amplitude espacial da cobertura permitindo-nos ficar com um pé direito bastante generoso, deixando que a luz reflicta nas paredes e tecto brancos, inundando todo o espaço anteriormente enclausurado. No piso da mezanine abrimos uma clarabóia que, desde a posição de trabalho, nos guia a vista ao castelo, lembrando-nos que a contemporaneidade está carregada de história. Materialmente a obra quis-se leve, desprendida e acolhedora, fazendo uso de materiais tão simples quanto nobres, pintando as paredes e tectos com tonalidades claras e revestindo pisos e mobiliário com madeira de riga.",
+        "url": "https://example.com",
+        "image": "./images/imagem8.jpg"
+    },
+
+    {
+        "id": "9",
+        "title": "Beira Mar House",
+        "slug": "project-9",
+        "cliente": "Confidencial",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "131 m2",
+        "estado": "Construído",
+        "ano": "2018",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Inserida num dos bairros mais típicos e consolidados de Aveiro (Bairro da Beira Mar), esta moradia surge como resultado de uma apaixonada e desafiante reforma, uma reforma que pretende devolver à cidade e aos seus usuários um estilo de vida, livre e em contacto com o espaço exterior, com o barulho das gaivotas e com o cheiro da maresia, com a cor do céu e o verde da vegetação. Implantada numa parcela de 30metros de comprimento por 2,5metros de largura, formalmente assume-se como um corredor habitável, corredor esse que, desde o momento da entrada, vai sendo preenchido por momentos, de escuridão, de luz, de surpresa, de descoberta, de compressão e de desafogo… o pátio tardoz! Com materiais sóbrios e elementares, betão, revestimos funções básicas e essenciais, o chão que pisamos e o volume que alberga as casas de banho e zona de serviços, e com gesso cartonado de tonalidade verde escura, revestimos e protegemos o antigo edifício, vestindo-o a rigor para o seu novo e revigorado ciclo de vida. Se por um lado pretendemos um ambiente escuro e intimista no interior, por contraste conceptual e prático, o exterior é branco, uma superfície propositadamente reflectora que inunda a casa de luz, ora difusa e macia, ora directa e dura, como o reflexo dos vários estados de espírito de quem ali habita. Programaticamente situamos no piso térreo todas as funções sociais, em contacto directo com o pátio tardoz da casa, enquanto que o piso superior ficou reservado para os dois quartos e para um solário, visualmente protegido dos olhares indesejados por uma cortina vegetal. Uma casa que foi projectada para ser vivida no resguardo da intimidade e na frescura do exterior, em sintonia com o passado e com um profundo respeito pelo futuro. _____ Agradecimentos especiais à Ferreira de Sá e à Galeria de arte Nuno Sacramento",
+        "url": "https://example.com",
+        "image": "./images/imagem9.jpg"
+    },
+
+    {
+        "id": "10",
+        "title": "Moradia Costa Neto",
+        "slug": "project-10",
+        "cliente": "Confidencial",
+        "local": "Águeda . Portugal",
+        "area-bruta": "285 m2",
+        "estado": "Projecto Licenciamento",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem10.jpg"
+    },
+
+    {
+        "id": "11",
+        "title": "Casa Pisco",
+        "slug": "project-11",
+        "cliente": "Confidencial",
+        "local": "Águeda . Portugal",
+        "area-bruta": "550 m2",
+        "estado": "Projecto Licenciamento",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem11.jpg"
+    },
+
+    {
+        "id": "12",
+        "title": "Moradia SL",
+        "slug": "project-12",
+        "cliente": "Confidencial",
+        "local": "Águeda . Portugal",
+        "area-bruta": "480 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem12.jpg"
+    },
+
+    {
+        "id": "13",
+        "title": "Moradia Madalena",
+        "slug": "project-13",
+        "cliente": "Confidencial",
+        "local": "Vila Nova de Gaia . Portugal",
+        "area-bruta": "330 m2",
+        "estado": "Em obra",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem13.jpg"
+    },
+
+    {
+        "id": "14",
+        "title": "Edifício Comur",
+        "slug": "project-14",
+        "cliente": "Comur",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "720 m2",
+        "estado": "Construído",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem14.jpg"
+    },
+
+    {
+        "id": "15",
+        "title": "Moradia Paçô",
+        "slug": "project-15",
+        "cliente": "Confidencial",
+        "local": "Sever do Vouga . Portugal",
+        "area-bruta": "260 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem15.jpg"
+    },
+
+    {
+        "id": "16",
+        "title": "Moradia Taubaté",
+        "slug": "project-16",
+        "cliente": "Confidencial",
+        "local": "Taubaté . Brasil",
+        "area-bruta": "244 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem16.jpg"
+    },
+
+    {
+        "id": "17",
+        "title": "Moradia Araújo e Silva",
+        "slug": "project-17",
+        "cliente": "Confidencial",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "518 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem17.jpg"
+    },
+
+    {
+        "id": "18",
+        "title": "Clínica Dentária",
+        "slug": "project-18",
+        "cliente": "Confidencial",
+        "local": "Manchester . UK",
+        "area-bruta": "",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem18.jpg"
+    },
+
+    {
+        "id": "19",
+        "title": "Moradia NC",
+        "slug": "project-19",
+        "cliente": "Confidencial",
+        "local": "Sever do Vouga . Portugal",
+        "area-bruta": "318 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem19.jpg"
+    },
+
+    {
+        "id": "20",
+        "title": "José Rabumba",
+        "slug": "project-20",
+        "cliente": "Garrido de Matos - Invest, S.A.",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "157 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem20.jpg"
+    },
+
+    {
+        "id": "21",
+        "title": "Casal do Canal",
+        "slug": "project-21",
+        "cliente": "Confidencial",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "275 m2",
+        "estado": "Projecto de Execução",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem21.jpg"
+    },
+
+    {
+        "id": "22",
+        "title": "Moradia São Bernardo",
+        "slug": "project-22",
+        "cliente": "Confidencial",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "",
+        "estado": "Projecto Prévio",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem22.jpg"
+    },
+
+    {
+        "id": "23",
+        "title": "Dr. Luís Regala",
+        "slug": "project-23",
+        "cliente": "Confidencial",
+        "local": "Aveiro . Portugal",
+        "area-bruta": "3750 m2",
+        "estado": "Projecto Prévio",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem23.jpg"
+    },
+
+    {
+        "id": "24",
+        "title": "Quinta dos Alcoutins",
+        "slug": "project-24",
+        "cliente": "Confidencial",
+        "local": "Lisboa . Portugal",
+        "area-bruta": "540 m2",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem24.jpg"
+    },
+
+    {
+        "id": "25",
+        "title": "Moradia CD",
+        "slug": "project-25",
+        "cliente": "Confidencial",
+        "local": "Águeda . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Prévio",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem25.jpg"
+    },
+
+    {
+        "id": "26",
+        "title": "Quinta do Cruzeiro",
+        "slug": "project-26",
+        "cliente": "Confidencial",
+        "local": "Oliveira de Frades . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Licenciamento",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem26.jpg"
+    },
+
+    {
+        "id": "27",
+        "title": "Condomínio Barrô",
+        "slug": "project-27",
+        "cliente": "Confidencial",
+        "local": " Águeda . Portugal",
+        "area-bruta": "",
+        "estado": "Projeto Licenciamento",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem27.jpg"
+    },
+
+    {
+        "id": "28",
+        "title": "Pavilhão Casca",
+        "slug": "project-28",
+        "cliente": "Confidencial",
+        "local": " Águeda . Portugal",
+        "area-bruta": "",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem28.jpg"
+    },
+
+    {
+        "id": "29",
+        "title": "HR023",
+        "slug": "project-29",
+        "cliente": "Confidencial",
+        "local": " Águeda . Portugal",
+        "area-bruta": "",
+        "estado": "",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem29.jpg"
+    },
+
+    {
+        "id": "30",
+        "title": "H023",
+        "slug": "project-30",
+        "cliente": "Confidencial",
+        "local": " Oliveira de Frades . Portugal",
+        "area-bruta": "",
+        "estado": "Projecto Licenciamento",
+        "ano": "2017",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem30.jpg"
+    },
+
+    {
+        "id": "31",
+        "title": "R048",
+        "slug": "project-31",
+        "cliente": "Confidencial",
+        "local": " Aveiro . Portugal",
+        "area-bruta": "",
+        "estado": "Projecto Licenciamento",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem31.jpg"
+    },
+
+    {
+        "id": "32",
+        "title": "R036",
+        "slug": "project-32",
+        "cliente": "Confidencial",
+        "local": " Santo Amador . Portugal",
+        "area-bruta": "",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem32.jpg"
+    },
+
+    {
+        "id": "33",
+        "title": "H036",
+        "slug": "project-33",
+        "cliente": "Confidencial",
+        "local": " Aveiro . Portugal",
+        "area-bruta": "",
+        "estado": "Projecto Prévio",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem33.jpg"
+    },
+
+    {
+        "id": "34",
+        "title": "The Bivart",
+        "slug": "project-34",
+        "cliente": "Confidencial",
+        "local": " Lisboa . Portugal",
+        "area-bruta": "",
+        "estado": "Em obra",
+        "ano": "2020",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem34.jpg"
+    },
+
+    {
+        "id": "35",
+        "title": "R039",
+        "slug": "project-35",
+        "cliente": "Confidencial",
+        "local": " Albergaria-a-Velha . Portugal",
+        "area-bruta": "",
+        "estado": "Em obra",
+        "ano": "",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem35.jpg"
+    },
+
+    {
+        "id": "36",
+        "title": "ATZ",
+        "slug": "project-36",
+        "cliente": "Confidencial",
+        "local": " Águeda . Portugal",
+        "area-bruta": "65 m2",
+        "estado": "Construído",
+        "ano": "2020",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Uma cantina, ponto de encontro e de vivências, momento de relaxamento e desconexão… Foi-nos pedido que a cantina da empresa fosse exactamente isso, um espaço onde os trabalhadores pudessem relaxar enquanto fazem uma pausa no trabalho, com as condições e preocupações estéticas que qualquer um teria na sua própria casa. Surge então um espaço-mirador, estilo open space, contido na sua materialidade mas meticuloso nas suas intenções e detalhes. Este espaço divide-se em duas zonas, uma de entrada com um pé direito mais baixo, onde se situa um móvel multifuncional, e a sala de refeições propriamente dita, com uma vista privilegiada sobre a fábrica. Este móvel multifunções, que emerge do pavimento e se converte em elemento tectónico, acumula todas as funcionalidades técnicas exigidas a esta cantina: lavatório para lavar as mãos mal se entra no espaço, frigorifico, microondas, lava-louça, espaço para armazenamento de tabuleiros e lixo, máquina de bebidas e também um balcão mais alto onde se pode tomar um café enquanto se lê o jornal. Os materiais empregados nesta cantina, microcimento no piso e móvel, revestimento cerâmico nas paredes e gesso cartonado acústico no tecto, foram materiais mais brutos que remetem a intervenção para um carácter mais industrializado, envolvendo o usuário neste ambiente mecanicista do qual a fábrica faz parte.",
+        "url": "https://example.com",
+        "image": "./images/imagem36.jpg"
+    },
+
+    {
+        "id": "37",
+        "title": "Plantsone",
+        "slug": "project-37",
+        "cliente": "ASD",
+        "local": " Águeda . Portugal",
+        "area-bruta": "2543 m2",
+        "estado": "Construído",
+        "ano": "2019",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Este armazém industrial está localizado em Águeda, Portugal, numa zona sem referências arquitectónicas e rodeado de paisagem florestal. Sem referências relevantes e com um programa que se resume a uma zona de armazém de produto acabado, zona de cargas e zona de escritórios, a proposta pretende reflectir a simplicidade da solução, face à simplicidade dos requisitos. Partindo da volumetria que nos permite usar o máximo de área destinada a armazém (função principal), um rectângulo, reservamos uma fracção desse espaço para os escritórios, na zona mais próxima da entrada. Essa zona de escritórios é a zona que marca a entrada do edifício, enquanto elemento de excepção, sendo que toda a volumetria é um elemento monolítico, simples e despretensioso. Esse elemento de excepção surge na sequência da deformação do volume original, inspirado numa das técnicas usadas pela empresa no fabrico de bases de duche e banheiras, o vacuum forming. Esta deformação assume uma linguagem plástica muito forte, acentuada pelo uso da cor branca, por contraste ao cinza escuro do restante pavilhão e à semelhança da cor esbranquiçada que os materiais plásticos adquirem ao serem deformados. Igualmente deformada fica a malha quadriculada, originalmente sobreposta na volumetria, assumindo uma linguagem que acentua a deformação e cria uma dinâmica visual e formal que reforça o carácter humanizado dos escritórios. Dando continuidade à linguagem usada no exterior, os materiais usados no interior são uniformes e com tonalidades neutras, sendo que um toque de aconchego é conseguido através do uso de madeira de carvalho, dando um carácter mais doméstico ao espaço, mas sem cortar contacto com a função principal, a de pavilhão industrial. Por esse motivo, existe um permanente contacto visual com o pavilhão e com a sua função de armazém, contacto esse que é levado ao extremo por uma enorme e contínua parede envidraçada na zona de recepção, assumindo contornos de exibicionismo e brio profissional. Estes momentos são repetidos ao longo da intervenção, de destacar também a janela da copa, semelhante a um quadro em movimento. É um pavilhão cuja formalização assenta em contrastes, enquanto forma de valorização e humanização dos espaços, sejam eles industriais, comerciais ou habitacionais.",
+        "url": "https://example.com",
+        "image": "./images/imagem37.jpg"
+    },
+
+    {
+        "id": "38",
+        "title": "HCB CO-LIVING",
+        "slug": "project-38",
+        "cliente": "HUB Criativo do Beato",
+        "local": " Lisboa . Portugal",
+        "area-bruta": "4824,28 m2",
+        "estado": "Não Construído",
+        "ano": "2019",
+        "fotografia": "",
+        "descricao": "Este armazém industrial está localizado em Águeda, Portugal, numa zona sem referências arquitectónicas e rodeado de paisagem florestal. Sem referências relevantes e com um programa que se resume a uma zona de armazém de produto acabado, zona de cargas e zona de escritórios, a proposta pretende reflectir a simplicidade da solução, face à simplicidade dos requisitos. Partindo da volumetria que nos permite usar o máximo de área destinada a armazém (função principal), um rectângulo, reservamos uma fracção desse espaço para os escritórios, na zona mais próxima da entrada. Essa zona de escritórios é a zona que marca a entrada do edifício, enquanto elemento de excepção, sendo que toda a volumetria é um elemento monolítico, simples e despretensioso. Esse elemento de excepção surge na sequência da deformação do volume original, inspirado numa das técnicas usadas pela empresa no fabrico de bases de duche e banheiras, o vacuum forming. Esta deformação assume uma linguagem plástica muito forte, acentuada pelo uso da cor branca, por contraste ao cinza escuro do restante pavilhão e à semelhança da cor esbranquiçada que os materiais plásticos adquirem ao serem deformados. Igualmente deformada fica a malha quadriculada, originalmente sobreposta na volumetria, assumindo uma linguagem que acentua a deformação e cria uma dinâmica visual e formal que reforça o carácter humanizado dos escritórios. Dando continuidade à linguagem usada no exterior, os materiais usados no interior são uniformes e com tonalidades neutras, sendo que um toque de aconchego é conseguido através do uso de madeira de carvalho, dando um carácter mais doméstico ao espaço, mas sem cortar contacto com a função principal, a de pavilhão industrial. Por esse motivo, existe um permanente contacto visual com o pavilhão e com a sua função de armazém, contacto esse que é levado ao extremo por uma enorme e contínua parede envidraçada na zona de recepção, assumindo contornos de exibicionismo e brio profissional. Estes momentos são repetidos ao longo da intervenção, de destacar também a janela da copa, semelhante a um quadro em movimento. É um pavilhão cuja formalização assenta em contrastes, enquanto forma de valorização e humanização dos espaços, sejam eles industriais, comerciais ou habitacionais.",
+        "url": "https://example.com",
+        "image": "./images/imagem38.jpg"
+    },
+
+    {
+        "id": "39",
+        "title": "Restaurante Fama",
+        "slug": "project-39",
+        "cliente": "Luis Lavrador",
+        "local": " Aveiro . Portugal",
+        "area-bruta": "220 m2",
+        "estado": "Construído",
+        "ano": "2019",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "O restaurante FAMA é primeiro projecto gastronómico do chef Luis Lavrador. Situado num edifício novo, numa zona relativamente nova da cidade de Aveiro, este restaurante pretende ser um ponto de encontro, de permanência e de referência. Permanência foi um substantivo que pautou esta intervenção desde o primeiro momento. O chef quis um restaurante onde os clientes se sentissem em casa, onde o conforto fosse imperativo para que os sentidos pudessem estar libertos para o momento da degustação. O programa resolveu-se com um volume de serviços central, que divide o espaço em duas zonas distintas. Esta volumetria reveste-se do mesmo material que o piso do restaurante, microcimento cinza, criando uma leitura uniforme do espaço. Para as paredes e tecto optou-se por tons esverdeados escuros, que além de criarem um ambiente mais intimista e confortável, também contribuem para o realce que se pretende com a luz artificial, criando um limite definido em cada mesa ou conjunto de mesas, potenciando a sensação de intimidade e de controlo do espaço próximo. A vegetação usada acumula a dupla função de restabelecer a harmonia num espaço construído e artificial, fazendo uso da fresca e relaxante cor, ao mesmo tempo que cria barreiras visuais e acústicas entre as diferentes mesas e espaços, reforçando uma vez mais a sensação de intimidade. O mobiliário usado assume-se como o material de excepção, madeira de carvalho natural, que aporta um toque contrastante com a restante materialidade, reforçando o carácter de intervenção monolítica.",
+        "url": "https://example.com",
+        "image": "./images/imagem39.jpg"
+    },
+
+    {
+        "id": "40",
+        "title": "GR HOUSE",
+        "slug": "project-40",
+        "cliente": "Confidencial",
+        "local": " Sever do Vouga . Portugal",
+        "area-bruta": "696 m2",
+        "estado": "Construído",
+        "ano": "2018",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Inserida num lote de geometria irregular e rodeada por construções de escasso valor arquitectónico, esta moradia surge como uma consequência das suas condicionantes. Se por um lado não há vontade de relacionar visualmente os espaços interiores da moradia com a envolvência imediata, por outro existe uma vontade incontrolável de a virar completamente para nascente, vista dona de uma beleza ensurdecedora e alheia aos olhares indesejado.  Outra condicionante é o facto de a sua orientação não ser a ideal, ou seja, a vista predominante encontra-se a nascente, a sul temos a estrema do lote e a poente uma estrada nacional com o café da aldeia do outro lado da rua… Surge então  a necessidade de introversão e hermetismo, fazendo com que o volume construído surja como um inerte, mimetizando-se com a natureza e assumindo a sua excepção no alçado nascente, cuja deformação volumétrica declara e acentua a vontade de abertura e entrega às vistas. As suas formas são irregulares, a sua cor assume tons térreos e as aberturas em alçado são quase inexistentes, aparecendo sob a forma de pátios e clarabóias, visíveis apenas de planos superiores. Fazendo o percurso de rampas que se sucedem desde a entrada no lote, somos levados ao momento de transição entre o interior e o exterior, que se anuncia através do seu revestimento em ipê, superlativo de excepção e convite à entrada através da sobredimensionada porta que separa o hermético e misterioso exterior do interior puro e cálido, com os seus espaços inundados de luz zenital e apontados ao vale, por onde o nevoeiro denuncia a passagem de um rio. Uma assumida dualidade exterior/interior vem reforçar a ideia de desinteresse no relacionamento da moradia com a envolvente imediata, sem que isso prejudique a dinâmica vivencial do seu interior. Programaticamente as zonas sociais da casa situam-se viradas a nascente (vale) e as zonas íntimas a poente (rua), sendo estes espaços separados por um grande pátio interior à volta do qual se pode circular, criando uma enriquecedora dinâmica espacial e visual.",
+        "url": "https://example.com",
+        "image": "./images/imagem40.jpg"
+    },
+
+    {
+        "id": "41",
+        "title": "Garagem Privada",
+        "slug": "project-41",
+        "cliente": "Confidencial",
+        "local": " Águeda . Portugal",
+        "area-bruta": "160 m2",
+        "estado": "Construído",
+        "ano": "2016",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Um desafio invulgar que obrigou ao reverse thinking. Um intervenção global que começou pelo particular, pela emoção do objecto construído e pela paixão por motores.  E assim nasce uma garagem invulgar, uma garagem que se assume como galeria onde os veículos coabitam com a vontade de contemplação e de estudo, onde o barulho provocado pelo trabalhar dos motores partilha o mesmo espaço do sistema de som Porsche, que nos deixa ouvir uma bela melodia enquanto planeamos sentados o próximo percurso que iremos percorrer sentados em cima da mais emocionante Famel. O terreno, inserido num meio pouco denso e sem referências ou condicionantes relevantes, permitiu que o volume fosse implantado mais a norte, libertando o espaço sobrante para a construção daquela que será a moradia à qual a garagem servirá. Um volume regular, revestido a chapas de alumínio lacado, que transparece a mesma vontade de indústria e tecnologia que o conteúdo que alberga, mas que ao mesmo tempo se assume como discreto e hermético, qual bunker que protege os seus ocupantes. Um volume cinzento que é uma garagem que, por oposição à sua imagem exterior, é brilhante e clara no seu interior, asséptica. Esta leitura interior do espaço permite-nos libertar a atenção do objecto construído em favor do exuberante protagonismo de todo o state of the art da engenharia automóvel que fazem desta garagem uma autêntica galeria de arte!",
+        "url": "https://example.com",
+        "image": "./images/imagem41.jpg"
+    },
+
+    {
+        "id": "42",
+        "title": "Reforma Eixample",
+        "slug": "project-42",
+        "cliente": "Confidencial",
+        "local": " Barcelona . Espanha",
+        "area-bruta": "129 m2",
+        "estado": "Construído",
+        "ano": "2016",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "No terceiro piso da calle Valência, do lado esquerdo do plano idealizado por Ildefonso Cerdá em Barcelona, encontramos um apartamento construído em 1980 e, ao que tudo indica, alterado durante os 36 anos que o separam da actualidade. Espaços reduzidos e triturados com varandas transformadas em marquises, espaços escuros e tristes, uma vivência dinâmica transformada num espaço para viver, amorfo… provavelmente uma consequência do elevado custo do m2 e das necessidades programáticas dos anteriores proprietários. Quisemos devolver a dinâmica ao apartamento e transportar o cosmopolitismo da cidade para a vivência privada dos seus actuais proprietários, sem que isso impedisse o apartamento de ser um refúgio dentro da cidade… quisemos recuperar a varanda e a dinâmica de um pátio interior de manzana, quisemos a luz de Barcelona para iluminar cada recanto… Abrimos então um grande salão à entrada do piso onde situamos as zonas sociais e “escondemos” os quartos por detrás de uma porta dissimulada, deixando apenas que se percebam desde a varanda, para a qual os quartos se abrem. A suíte que percorre uma das laterais do piso, não escapa à regra e toda ela é também um open space que se fecha consoante as vontades, através de portas de correr. Uma parede espelhada conduz-nos à casa de banho e a um espelho que reflecte o olhar de volta ao típico pátio interior de manzana, não deixando que em momento algum nos esqueçamos da cidade onde vivemos! Poucos materiais e unidade cromática fazem deste piso um espaço calmo e tranquilo, como que uma folha em branco, pronto pra receber vivências e memórias!",
+        "url": "https://example.com",
+        "image": "./images/imagem42.jpg"
+    },
+
+    {
+        "id": "43",
+        "title": "SS Apartment",
+        "slug": "project-43",
+        "cliente": "Confidencial",
+        "local": " Sever do Vouga . Portugal",
+        "area-bruta": "46 m2",
+        "estado": "Construído",
+        "ano": "2015",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "Este projecto refere-se à remodelação de um apartamento tipologia T1 (46m2), localizado nas águas furtadas de um prédio da década de 70, situado numa zona privilegiada da vila de Sever do Vouga. Inicialmente a distribuição espacial colocava a zona social da casa virada a nascente e a zona íntima a poente, sendo que a sua estrutura era bastante confusa e não hierarquizada. Assim, a intervenção teve como objectivo principal a mudança da zona social e íntima de lado para o lado oposto, permitindo não só uma melhor e mais adequada exposição solar como também um usufruto social da varanda adjacente. A dominar e a servir de rótula espacial, foi criada uma box dentro do apartamento, claramente distinguida com outra cor, onde se alojaram as instalações (inst. sanitária, cozinha, máquinas).!",
+        "url": "https://example.com",
+        "image": "./images/imagem43.jpg"
+    },
+
+    {
+        "id": "44",
+        "title": "AR Vinhos",
+        "slug": "project-44",
+        "cliente": "Confidencial",
+        "local": " Aveiro . Portugal",
+        "area-bruta": "70 m2",
+        "estado": "Construído",
+        "ano": "2014",
+        "fotografia": "Ivo Tavares Studio",
+        "descricao": "De linhas minimalistas e depuradas, este projecto para uma winehouse, em Aveiro, caracteriza-se pela existência de um plano que se desdobra e assume o protagonismo de toda a intervenção. Após uma introdução feita por um móvel ajardinado, fazendo alusão às vinhas, o destaque passa para esse plano que nos conduz através do espaço e dos vários vinhos expostos, culminando no balcão de atendimento. Esta loja divide-se em dois pisos, sendo que no piso superior se situará uma zona mais selectiva, onde terão lugar as degustações e workshops, enquanto que no piso inferior se privilegiará a actividade comercial.",
+        "url": "https://example.com",
+        "image": "./images/imagem44.jpg"
+    },
+
+    {
+        "id": "45",
+        "title": "Reforma Cedofeita",
+        "slug": "project-45",
+        "cliente": "Confidencial",
+        "local": " Porto . Portugal",
+        "area-bruta": "70 m2",
+        "estado": "Construído",
+        "ano": "2014",
+        "fotografia": "Ana Tavares",
+        "descricao": "Nesta reforma de um apartamento tipologia T2, dos anos 90, a intenção principal foi a de dotá-lo de uma espacialidade visual e perspéctica ate então atrofiada pelas várias divisões que o organizavam. A pedido do cliente, um dos quartos foi transformado em escritório/quarto visitas, permitindo assim a sua total abertura para o espaço de estar, abrindo, simultaneamente o antigo espaço de cozinha, criando, assim, toda a zona comum do apartamento num único e fluído espaço de estar. Através de uma ponderada e minimalista utilização dos materiais, o apartamento de 70m2 ganhou uma abundante luz natural que invade todos os espaços que o organizam.",
+        "url": "https://example.com",
+        "image": "./images/imagem45.jpg"
+    },
+
+    {
+        "id": "46",
+        "title": "R5 Engenharia",
+        "slug": "project-46",
+        "cliente": "R5 Engenharia",
+        "local": " Aveiro . Portugal",
+        "area-bruta": "70 m2",
+        "estado": "Construído",
+        "ano": "2014",
+        "fotografia": "Ana Tavares",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem46.jpg"
+    },
+
+    {
+        "id": "47",
+        "title": "MG Apartment",
+        "slug": "project-47",
+        "cliente": "Confidencial",
+        "local": " São Paulo . Brasil",
+        "area-bruta": "180 m2",
+        "estado": "Construído",
+        "ano": "2014",
+        "fotografia": "",
+        "descricao": "Situado no 15º piso de um condomínio na região de Brooklin, São Paulo, este apartamento duplex de 180m2, foi alvo de um projecto de reforma interior com vista a actualizar os seus padrões de conforto, de acordo com as necessidades e exigências do cliente. No piso inferior ampliou-se a zona de estar ocupando para o efeito um dos quartos contíguos à actual sala de estar, sendo que a suíte principal da casa passou a localizar-se no mezanino da sala, onde anteriormente se situava um escritório. O uso abundante da madeira nos revestimentos confere ao espaço um toque quente e humano, sereno e apaziguador, em contraste com a vida agitada e cosmopolita de uma cidade como São Paulo. Toda a intervenção pauta-se por um objectivo, dotar o apartamento de uma espacialidade e cruzamentos perspécticos estimulantes e dinâmicos.",
+        "url": "https://example.com",
+        "image": "./images/imagem47.jpg"
+    },
+
+    {
+        "id": "48",
+        "title": "Lagos House",
+        "slug": "project-46",
+        "cliente": "Confidencial",
+        "local": " Lagos . Portugal",
+        "area-bruta": "465 m2",
+        "estado": "Não Construído",
+        "ano": "2013",
+        "fotografia": "",
+        "descricao": "Inserida num terreno de 4700m2, localizado em Lagos, Portugal, esta vivenda unifamiliar destina-se a um uso sazonal. Adoptando como referência as características do lugar e das suas construções, bem como as especificidades do cliente e do programa, o projecto potencia o uso dos espaços exteriores, criando zonas de permanência e sombreamento indispensáveis a um uso desse tipo. Com uma composição formal em L, a construção destaca-se por uma opacidade nos espaços virados para a estrada existente enquanto que a fachada virada a poente abre-se para o núcleo social exterior, relacionando-se com as zonas sociais interiores através de um grande vão praticável.",
+        "url": "https://example.com",
+        "image": "./images/imagem48.jpg"
+    },
+
+    {
+        "id": "49",
+        "title": "Gemini GestHotel",
+        "slug": "project-49",
+        "cliente": "Gemini",
+        "local": " Viana . Angola",
+        "area-bruta": "33 000 m2",
+        "estado": "Não Construído",
+        "ano": "2012",
+        "fotografia": "",
+        "descricao": "Refere-se o presente projecto à construção de um complexo industrial composto por nave industrial dedicada ao armazenamento e fabrico de refeições, edifício administrativo e casa do guarda, a levar a cabo em Viana, na província de Luanda, Angola. O terreno de 3,31ha  está situado dentro de uma zona industrial e é servido por um acesso frontal; em frente ao terreno passa a via expresso Luanda - Catete. Inserido numa zona com uma forte presença industrial, o complexo industrial GESTHOTEL, do grupo GEMINI, foi tratado e pensado por forma a inserir-se harmoniosamente no local e permitir um fluido e dinâmico relacionamento entre os vários blocos que formam o complexo. Assim, implantou-se o edifício administrativo ligeiramente curvado sobre a entrada principal, relegando para um segundo plano, mais atrás, o edifício industrial que irá albergar toda a actividade de armazenamento e confecção de comida. Esta implantação enviesada do ed. administrativo permitiu-nos criar um melhor aproveitamento solar ao mesmo tempo que possibilitou a criação de uma rótula que unifica e articula os dois volumes. Relativamente aos materiais, optou-se por utilizar o mínimo de materiais por forma a viabilizar e reforçar a premissa inicial de dotar o conjunto de uma serenidade e unidade projectual, aproveitando para imprimir ao conjunto uma imagem identificativa e corporativa. Todo o espaço exterior foi devidamente projectado de modo a que as condições de trabalho e habitabilidade sejam garantidas, não permitindo um levantamento de poeiras e sujidades com o movimento, nem impermeabilizando o solo, prejudicando a eficiente drenagem das águas pluviais. Prevêem-se do mesmo modo a criação de várias zonas ajardinadas, contribuindo para a criação de pequenos micro-climas e consequente controlo de humidades e temperaturas.",
+        "url": "https://example.com",
+        "image": "./images/imagem49.jpg"
+    },
+
+    {
+        "id": "50",
+        "title": "URBAN TAVERN",
+        "slug": "project-50",
+        "cliente": "Confidencial",
+        "local": " Ovar . Portugal",
+        "area-bruta": "",
+        "estado": "Não Construído",
+        "ano": "2014",
+        "fotografia": "",
+        "descricao": "",
+        "url": "https://example.com",
+        "image": "./images/imagem50.jpg"
+    },
+
+    {
+        "id": "51",
+        "title": "Gemini Headquarters",
+        "slug": "project-51",
+        "cliente": "Gemini",
+        "local": " Viana . Angola",
+        "area-bruta": "9 500 m2",
+        "estado": "Não Construído",
+        "ano": "2012",
+        "fotografia": "",
+        "descricao": "Esta proposta consiste na materialização de um bloco edificado destinado a ser ocupado por serviços; escritórios, comerciais e outros, tais como restauração, médicos, etc… Uma vez se pretende um acesso controlado para todas as zonas de escritórios e serviços de apoio e um livre acesso às zonas comerciais e de restauração, optou-se por criar diferentes acessos localizados nos extremos opostos da parcela, confinando ambos com a via principal. Assim, elevou-se o bloco um piso relativamente à cota de soleira e libertou-se o piso inferior para situar os serviços comuns e de apoio ao edifício bem como os espaços comerciais. Uma plataforma verde que se molda ao espaço edificado estabelece uma ligação física entre a cota da rua e o primeiro piso onde se situa o restaurante/cafetaria permitindo deste modo uma fluidez espacial e visual entre estes dois espaços físicos. A envolvência de todo o edifício virado a poente com espaços verdes tem algumas funções bem definidas. Por um lado permite a criação de um microclima propiciador de um maior conforto ambiental, através de um controlo natural da temperatura e humidade, e por outro lado permite criar espaços de sombra, quer no espaço exterior quer na sua projecção sobre o espaço interior.",
+        "url": "https://example.com",
+        "image": "./images/imagem51.jpg"
+    },
+
+    {
+        "id": "52",
+        "title": "Guest House Luanda",
+        "slug": "project-52",
+        "cliente": "Confidencial",
+        "local": " Luanda . Angola",
+        "area-bruta": "602 m2",
+        "estado": "Não Construído",
+        "ano": "2011",
+        "fotografia": "",
+        "descricao": "Tendo omnipresente o objectivo de dotar esta Guest House dos mais elevados padrões de conforto contemporâneo, optou-se por seguir primariamente uma estratégia de sustentabilidade energética optando por deixar as demais questões projectuais sucederem naturalmente a esta premissa inicial. Assim, criaram-se vários negativos na massa construída e abriu-se ao máximo o edifício para que as diferenças de pressão favorecidas por uma orientação nascente-poente permitam uma natural ventilação do edifício através dos pátios criados para o efeito. Nesses mesmos pátios nasceram pequenos jardins que contribuem para a criação de um micro-clima e para um maior conforto, quer visual quer térmico. Para evitar a excessiva exposição solar do edifício, e também para permitir uma utilização exterior do mesmo durante o dia, foram instalados filtros solares.",
+        "url": "https://example.com",
+        "image": "./images/imagem52.jpg"
+    }
+
+]

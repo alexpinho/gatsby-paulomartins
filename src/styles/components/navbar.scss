@@ -1,0 +1,59 @@
+@import "../base.scss";
+
+.navbar {
+  //background-color: blue;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 3rem 7rem;
+
+  @include xl {
+    padding: 2rem 3rem;
+  }
+  @include sm {
+    padding: 1rem 1rem;
+  }
+
+  &-menu {
+    //background-color: red;
+    list-style: none;
+
+    &-elements {
+      padding: 0.25rem 0;
+      font-size: 1.5rem;
+
+      .navbar-text:hover {
+        transition: 0.3s;
+        transform: scale(1.1);
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &-btn-lang {
+    float: right;
+
+    &-pten {
+      background: none;
+      color: $primary-color;
+      border: none;
+      //cursor: pointer;
+      outline: inherit;
+      padding-left: 0.5rem;
+      padding-bottom: 0.875rem;
+      .navbar-text:hover {
+        transition: 0.3s;
+        transform: scale(1.1);
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &-logo {
+    width: 12.5rem;
+  }
+}

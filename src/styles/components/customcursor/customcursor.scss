@@ -1,0 +1,15 @@
+.app-cursor {
+  z-index: 1000;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  background: $secondary-color;
+  pointer-events: none;
+  overflow: hidden;
+  position: fixed;
+  mix-blend-mode: difference;
+
+  @include xl {
+    background: none;
+  }
+}

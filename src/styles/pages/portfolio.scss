@@ -1,0 +1,31 @@
+.portfolio {
+  padding: 0 7rem 12.5rem;
+
+  @include xl {
+    padding: 0 3rem 8rem;
+  }
+
+  @include sm {
+    padding: 0 1rem 5rem;
+  }
+
+  &-projects {
+    padding-top: 6rem;
+    max-width: 1200px;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(4, 1fr);
+
+    @include xl {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    @include md {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include sm {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+}
