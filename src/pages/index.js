@@ -85,12 +85,12 @@ function Home() {
             {t("hero-title-2")}{" "}
             <span className="big-title-BookItalic">{t("hero-title-3")}</span>
           </motion.div>
-          <StaticImage
+          {/* <StaticImage
             src="../images/banner-1.jpg"
             width={670}
             alt="banner"
             className="home-hero-banner"
-          />
+          /> */}
           <img src={banner} className="home-hero-banner" alt="" />
         </div>
 
