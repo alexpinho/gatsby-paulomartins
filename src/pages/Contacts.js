@@ -1,7 +1,7 @@
 import * as React from "react"
 import { useTranslation } from "react-i18next"
 import { motion } from "framer-motion"
-import Typeform from "../components/Typeform"
+import Typeform from "../components/TypeForm"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import i18n from "i18next"
