@@ -14,16 +14,28 @@ import SV from "../images/SV.png"
 import JS from "../images/JS.png"
 import HF from "../images/HF.png"
 
+import { motion } from "framer-motion"
+
 const Atelier = () => {
+  const transition = { duration: 1, ease: [0.6, 0.01, -0.05, 0.9] }
+
   return (
     <Layout>
       <Seo title="Atelier" />
       <div className="atelier">
-        <div className="atelier-hero">
+        <motion.div
+          className="atelier-hero"
+          initial={{ opacity: 0, translateY: 20 }}
+          animate={{
+            opacity: 1,
+            translateY: 0,
+            transition: { ...transition },
+          }}
+        >
           <div className="big-title-Book col-xs-6">Meet our</div>
           <div className="big-title-BookItalic col-xs-3">team</div>
           <img src={team} className="atelier-hero-banner col-xs-5" alt="team" />
-        </div>
+        </motion.div>
         <div className="atelier-information">
           <div className="text atelier-information-1">
             Paulo Martins Arquitectura assumes itself as a studio focused on

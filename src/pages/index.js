@@ -28,6 +28,10 @@ import cardaward4 from "../images/european_awards-2020.png"
 import card1 from "../images/card1.png"
 import card2 from "../images/card2.png"
 
+import { motion, useAnimation } from "framer-motion"
+import { useInView } from "react-intersection-observer"
+import { useEffect } from "react"
+
 i18n.use(initReactI18next).init({
   resources: {
     en: en,
@@ -38,28 +42,65 @@ i18n.use(initReactI18next).init({
 })
 
 function Home() {
+  const transition = { duration: 1, ease: [0.6, 0.01, -0.05, 0.9] }
+
   const { t } = useTranslation()
+
+  const { ref, inView } = useInView({
+    //threshold: 0.2
+  })
+  const animation = useAnimation()
+
+  useEffect(() => {
+    console.log("use effect hook, inView= ", inView)
+    if (inView) {
+      animation.start({
+        y: 0,
+        opacity: 1,
+        transition: {
+          duration: 1.5,
+        },
+      })
+    }
+    if (!inView) {
+      animation.start({
+        y: 20,
+        opacity: 0,
+      })
+    }
+  }, [inView])
 
   return (
     <Layout>
       <Seo title="Home" />
       <div className="home">
         <div className="home-hero">
-          <div className="big-title-Book">
+          <motion.div
+            className="big-title-Book"
+            initial={{ opacity: 0, translateX: -20 }}
+            animate={{ opacity: 1, translateX: 0 }}
+            transition={{ ...transition }}
+          >
             {t("hero-title-1")} <br />
             {t("hero-title-2")}{" "}
             <span className="big-title-BookItalic">{t("hero-title-3")}</span>
-          </div>
-          <StaticImage
-            src="../images/banner-1.jpg"
-            width={670}
-            alt="banner"
-            className="home-hero-banner"
-          />
+          </motion.div>
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ ...transition }}
+          >
+            <StaticImage
+              src="../images/banner-1.jpg"
+              width={670}
+              alt="banner"
+              className="home-hero-banner"
+            />
+          </motion.div>
           {/* <img src={banner} className="home-hero-banner" alt="" /> */}
         </div>
 
-        <div className="home-portfolio">
+        <motion.div ref={ref} className="home-portfolio" animate={animation}>
           <div className="home-portfolio-intro">
             <div className="home-portfolio-intro-left text-detail">
               2011-2021
@@ -136,7 +177,7 @@ function Home() {
               />
             </div>
           </div>
-        </div>
+        </motion.div>
 
         <div className="home-jobs">
           <div className="big-title-BookItalic home-jobs-text">

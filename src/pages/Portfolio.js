@@ -5,6 +5,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import ProjectPreview from "../components/project-preview"
 
+import { motion } from "framer-motion"
+
 const Portfolio = () => {
   const data = useStaticQuery(graphql`
     {
@@ -29,12 +31,22 @@ const Portfolio = () => {
 
   const projects = data.allProjectsJson.edges
 
+  const transition = { duration: 1, ease: [0.6, 0.01, -0.05, 0.9] }
+
   return (
     <Layout>
       <Seo title="Portfolio" />
 
       <div className="portfolio">
-        <div className="portfolio-hero">
+        <motion.div
+          className="portfolio-hero"
+          initial={{ opacity: 0, translateY: 20 }}
+          animate={{
+            opacity: 1,
+            translateY: 0,
+            transition: { ...transition },
+          }}
+        >
           <div className="row">
             <div className="big-title-Book">Portfolio </div>
             <div className="row-description">
@@ -44,7 +56,7 @@ const Portfolio = () => {
               </div>
             </div>
           </div>
-        </div>
+        </motion.div>
 
         <div className="portfolio-projects">
           {projects.map(({ node: project }, index) => {

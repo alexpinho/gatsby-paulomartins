@@ -124,7 +124,24 @@
         "spec-local": "local  ",
         "spec-area": "gross area  ",
         "spec-state": "status  ",
-        "spec-photo": "photograph  "
+        "spec-photo": "photograph  ",
+
+        "contacts-contacts-title": "Contact Us",
+        "contacts-info-general": "General",
+        "contacts-info-careers": "Careers",
+        "contacts-info-press": "Press",
+        "contacts-adress-1": "geral@paulomartins.com.pt",
+        "contacts-adress-2": "jobs@paulomartins.com.pt",
+        "contacts-adress-3": "press@paulomartins.com.pt",
+        "contacts-form-name": "name",
+        "contacts-form-email": "email",
+        "contacts-form-message": "message",
+        "contacts-map-info": "Portugal",
+        "contacts-map-main": "Rua de Marques Gomes nº2, Loja A 3800-221 Aveiro",
+        "contacts-map-description": "M +351 910 014 252  |  P  +351 234 135 831",
+        "contacts-map-info2": "Brasil",
+        "contacts-map-main2": "Solar Work - R. Jurandir Martins Filho 35, sala 501 Bosque Flamboyante – Taubaté/São Paulo",
+        "contacts-map-description-2": "P  +55 (12) 99797 5603"
 
     }
 }

@@ -1,0 +1,62 @@
+.typeform {
+  &-col1 {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 4rem;
+
+    &-name,
+    &-email {
+      input {
+        width: 20rem;
+        border-bottom: 1px solid $primary-color;
+      }
+    }
+
+    &-email input {
+      margin-left: 2rem;
+      @include sm {
+        margin-left: 0;
+      }
+    }
+    @include sm {
+      flex-direction: column;
+    }
+  }
+
+  &-col2 {
+    display: flex;
+    flex-direction: row;
+
+    &-message {
+      input {
+        width: 35rem;
+        border-bottom: 1px solid $primary-color;
+        @include sm {
+          width: 15rem;
+        }
+      }
+      @include sm {
+        width: 13rem;
+      }
+    }
+
+    &-send {
+      width: 3rem;
+      height: 1.5rem;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 4rem;
+
+      background-color: $primary-color;
+      color: $secondary-color;
+      @include sm {
+      }
+    }
+  }
+  @include sm {
+    flex-direction: column;
+    align-items: center;
+  }
+}

@@ -10,6 +10,7 @@ import Seo from "../components/seo"
 import CardJobs from "../components/CardJobs"
 import CardJobsPopup from "../components/CardJobsPopup"
 import CardJobsExtended from "../components/CardJobsExtended"
+import { motion } from "framer-motion"
 
 i18n.use(initReactI18next).init({
   resources: {
@@ -23,6 +24,8 @@ i18n.use(initReactI18next).init({
 function Jobs() {
   const { t } = useTranslation()
   const [buttonPopup, setButtonPopup] = useState(false)
+
+  const transition = { duration: 1, ease: [0.6, 0.01, -0.05, 0.9] }
 
   return (
     <Layout>
@@ -41,7 +44,15 @@ function Jobs() {
           />
         </CardJobsPopup>
 
-        <div className="jobs-hero">
+        <motion.div
+          className="jobs-hero"
+          initial={{ opacity: 0, translateY: 20 }}
+          animate={{
+            opacity: 1,
+            translateY: 0,
+            transition: { ...transition },
+          }}
+        >
           <div className="row">
             <div className="big-title-Book" id="title">
               {" "}
@@ -52,7 +63,7 @@ function Jobs() {
               <div className="text-note">{t("jobs-text-note")}</div>
             </div>
           </div>
-        </div>
+        </motion.div>
 
         <div className="jobs-wrapper">
           <div className="jobs-wrapper-card">

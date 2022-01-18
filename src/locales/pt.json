@@ -59,7 +59,22 @@
         "card-jobs-extended-requirements-2":"- Mínimo de 8 anos de experiência em projectos construídos;<br>- Experiência em projectos: mínimo de 4 projectos com escalas diferentes, envolvendo todas as fases dos projectos;<br>- Capacidade de compreender e formular novas ideias conceptuais e de as partilhar com a equipa para discussão;<br>- Capacidade de alcançar prazos apertados e de fornecer actualizações regulares sobre o progresso do trabalho;<br>- Capacidade de trabalhar sob pressão e com prazos apertados;<br>- Criativo, motivado e responsável;<br>- Excelente conhecimento de trabalho de Archicad (obrigatório) / ambiente BIM (obrigatório);<br>- Bons conhecimentos de português falado e escrito;<br>- Capaz de começar a trabalhar imediatamente.",
         "card-jobs-extended-fill-2":"PREENCHA O FORMULÁRIO",
 
-        "contacts-contacts-title": "Contacte-nos"
+        "contacts-contacts-title": "Contacte-nos",
+        "contacts-info-general": "Geral",
+        "contacts-info-careers": "Carreiras",
+        "contacts-info-press": "Imprensa",
+        "contacts-adress-1": "geral@paulomartins.com.pt",
+        "contacts-adress-2": "jobs@paulomartins.com.pt",
+        "contacts-adress-3": "press@paulomartins.com.pt",
+        "contacts-form-name": "nome",
+        "contacts-form-email": "email",
+        "contacts-form-message": "mensagem",
+        "contacts-map-info": "Portugal",
+        "contacts-map-main": "Rua de Marques Gomes nº2, Loja A 3800-221 Aveiro",
+        "contacts-map-description": "M +351 910 014 252 | P  +351 234 135 831",
+        "contacts-map-info2": "Brasil",
+        "contacts-map-main2": "Solar Work - R. Jurandir Martins Filho 35, sala 501 Bosque Flamboyante – Taubaté/São Paulo",
+        "contacts-map-description-2": "P  +55 (12) 99797 5603"
 
     }
 }

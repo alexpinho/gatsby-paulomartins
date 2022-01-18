@@ -9,6 +9,18 @@
     padding: 0 1rem 5rem;
   }
 
+  .row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+
+    &-description {
+      margin-bottom: 1.8rem;
+      padding-left: 2rem;
+      width: 32vw;
+    }
+  }
+
   &-awards {
     padding-top: 6rem;
     max-width: 100%;
