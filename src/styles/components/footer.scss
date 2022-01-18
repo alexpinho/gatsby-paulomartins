@@ -7,13 +7,25 @@
   padding: 6rem 7rem 3rem;
   z-index: 2;
 
-  @include sm {
+  @include xl {
+    padding: 5rem 2rem;
+  }
+
+  @include md {
     display: block;
     padding: 4rem 1rem;
   }
 
   &-logo {
     width: 20rem;
+
+    @include xl {
+      width: 10rem;
+    }
+
+    @include md {
+      max-width: 100%;
+    }
   }
 
   &-text {
@@ -22,6 +34,10 @@
   }
 
   &-form-newsletter {
+    @include md {
+      padding-top: 4rem;
+    }
+
     &-area {
       display: flex;
       margin-top: 2.5rem;
@@ -60,6 +76,10 @@
   }
 
   &-social {
+    @include md {
+      padding-top: 4rem;
+    }
+
     &-area {
       list-style: none;
       display: flex;
