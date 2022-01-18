@@ -9,6 +9,9 @@ import { initReactI18next } from "react-i18next"
 import pt from "../locales/pt.json"
 import en from "../locales/en.json"
 
+import map1 from "../images/map-01.png"
+import map2 from "../images/map-02.png"
+
 i18n.use(initReactI18next).init({
   resources: {
     en: en,
@@ -80,11 +83,7 @@ const Contacts = () => {
 
           <div className="contacts-map1-main">
             <div className="contacts-map1-portugal">
-              <img
-                src="images/map-01.png"
-                class="contacts-map1-image-1"
-                alt=""
-              ></img>
+              <img src={map1} className="contacts-map1-image-1" alt=""></img>
             </div>
 
             <div className="contacts-map1-description text-note">
@@ -101,11 +100,7 @@ const Contacts = () => {
 
           <div className="contacts-map2-main">
             <div className="contacts-map2-portugal">
-              <img
-                src="images/map-02.png"
-                class="contacts-map2-image-1"
-                alt=""
-              ></img>
+              <img src={map2} className="contacts-map2-image-1" alt=""></img>
             </div>
 
             <div className="contacts-map2-description text-note">
