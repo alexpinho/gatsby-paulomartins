@@ -43,7 +43,15 @@
         "card-jobs-title-1": "Arquiteto",
         "card-jobs-description-1": "Procuramos profissionais para trabalharem no nosso atelier de Aveiro, integrando a nossa equipa de trabalho. Ao juntar-se à nossa equipa, estará a desenvolver vários projetos e será responsável por responder a prazos estabelecidos e a ser comprometido com o seu rigor.",
         "card-jobs-title-2": "Arquiteto Sénior",
-        "card-jobs-title-3": "Artista 3D"
+        "card-jobs-title-3": "Artista 3D",
+
+        "button-back": "VOLTAR",
+
+        "spec-client": "cliente  ",
+        "spec-local": "local  ",
+        "spec-area": "área bruta  ",
+        "spec-state": "estado  ",
+        "spec-photo": "fotógrafo  "
 
     }
 }

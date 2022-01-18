@@ -1,0 +1,15 @@
+.award-preview {
+  padding-bottom: 1.5rem;
+
+  &-title {
+    display: block;
+    padding-top: 0.5rem;
+    position: absolute;
+    text-transform: uppercase;
+    max-width: 100%;
+  }
+
+  &-infos {
+    padding-top: 0.5rem;
+  }
+}

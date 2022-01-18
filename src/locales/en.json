@@ -109,7 +109,15 @@
         "card-publication-date-18": "April 2017",
         "card-publication-title-19": "Live in Design",
         "card-publication-local-19": "China",
-        "card-publication-date-19": "December 2014"
+        "card-publication-date-19": "December 2014",
+
+        "button-back": "BACK",
+
+        "spec-client": "client  ",
+        "spec-local": "local  ",
+        "spec-area": "gross area  ",
+        "spec-state": "status  ",
+        "spec-photo": "photograph  "
 
     }
 }

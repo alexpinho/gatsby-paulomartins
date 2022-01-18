@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "title": "Working Environments",
+        "slug": "award-1",
+        "date": "August 2021",
+        "country": " United States",
+        "image": "./images/pub1.jpg"
+    },
+
+    {
+        "id": "2",
+        "title": "Trends Magazine",
+        "slug": "award-2",
+        "date": "April 2021",
+        "country": " Portugal",
+        "image": "./images/pub2.jpg"
+    },
+
+    {
+        "id": "3",
+        "title": "Living Little",
+        "slug": "award-3",
+        "date": "November 2021",
+        "country": " Australia",
+        "image": "./images/pub3.jpg"
+    }
+]

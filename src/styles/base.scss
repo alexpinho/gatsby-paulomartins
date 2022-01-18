@@ -132,6 +132,30 @@ $secondary-color: #ffffff;
   text-align: end;
 }
 
+.project-detail {
+  font-family: "HelveticaNeue-Light";
+  font-size: 1rem;
+  font-weight: 300;
+  color: $primary-color;
+  text-decoration: none;
+  display: block;
+}
+
+.project-spec-title {
+  font-family: "HelveticaNeue-Medium";
+  font-size: 1rem;
+  font-weight: 600;
+  color: $primary-color;
+}
+
+.project-spec {
+  font-family: "HelveticaNeue";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: $primary-color;
+}
+
 .card-project-title {
   font-family: "RecifeDisplay-Book";
   font-size: 2rem;

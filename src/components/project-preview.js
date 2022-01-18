@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import Image from "gatsby-image"
 
-const ProjectPreview = ({ slug, imageData, title, descricao }) => (
+const ProjectPreview = ({ slug, imageData, title }) => (
   <Link
     to={`/${slug}/`}
     style={({ textDecoration: "none" }, { cursor: "pointer" })}

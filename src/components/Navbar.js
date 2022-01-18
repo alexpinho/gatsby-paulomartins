@@ -9,8 +9,14 @@ function Navbar() {
 
   return (
     <div className="navbar">
-      <img src={logo} className="navbar-logo" alt="" />
-
+      <a href="/">
+        <img
+          src={logo}
+          className="navbar-logo"
+          alt=""
+          style={{ cursor: "pointer" }}
+        />
+      </a>
       <div className="navbar-menus">
         <div className="navbar-btn-lang">
           <button
