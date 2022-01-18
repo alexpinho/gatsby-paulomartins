@@ -10,6 +10,7 @@ import pt from "../locales/pt.json"
 import en from "../locales/en.json"
 
 import { StaticImage } from "gatsby-plugin-image"
+import { Link } from "gatsby"
 
 //images
 //import banner from "../images/banner-1.jpg"
@@ -201,7 +202,9 @@ function Home() {
 
         <div className="home-contact">
           <div className="big-title-Regular home-contact-text">
-            {t("contact-title-1")}
+            <a className="home-contact-text-link" href="/Contacts">
+              {t("contact-title-1")}
+            </a>
           </div>
         </div>
       </div>

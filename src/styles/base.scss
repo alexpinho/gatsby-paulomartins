@@ -77,6 +77,7 @@ $secondary-color: #ffffff;
   font-weight: 400;
   text-transform: uppercase;
   color: $primary-color;
+  text-decoration: none;
 
   @include sm {
     font-size: 4.5rem;

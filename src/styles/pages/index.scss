@@ -250,12 +250,19 @@
     &-text {
       max-width: 100%;
       position: relative;
-      margin: 23rem auto 14rem;
+      margin: 23rem auto 17rem;
       text-align: center;
+      text-decoration: none;
 
       @include sm {
         max-width: 100%;
         margin: 23rem auto;
+      }
+
+      &-link {
+        text-decoration: none;
+        cursor: pointer;
+        color: $primary-color;
       }
     }
   }
