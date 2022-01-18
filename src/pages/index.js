@@ -10,7 +10,6 @@ import pt from "../locales/pt.json"
 import en from "../locales/en.json"
 
 import { StaticImage } from "gatsby-plugin-image"
-import { Link } from "gatsby"
 
 //images
 //import banner from "../images/banner-1.jpg"
@@ -25,6 +24,9 @@ import cardaward1 from "../images/architizer-2021.png"
 import cardaward2 from "../images/refurbishment-2020.png"
 import cardaward3 from "../images/honorable_mention-beiramarhouse.png"
 import cardaward4 from "../images/european_awards-2020.png"
+
+import card1 from "../images/card1.png"
+import card2 from "../images/card2.png"
 
 i18n.use(initReactI18next).init({
   resources: {
@@ -201,6 +203,12 @@ function Home() {
         </div>
 
         <div className="home-contact">
+          <img src={card1} className="home-contact-img1 col-xs-5" alt=" " />
+          <img
+            src={card2}
+            className="home-contact-img2 col-xs-offset-6 col-xs-4"
+            alt=" "
+          />
           <div className="big-title-Regular home-contact-text">
             <a className="home-contact-text-link" href="/Contacts">
               {t("contact-title-1")}

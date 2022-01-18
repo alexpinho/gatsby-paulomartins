@@ -243,6 +243,18 @@
     padding: 0 7rem;
     position: relative;
 
+    &-img1 {
+      position: absolute;
+      padding-top: 22rem;
+      z-index: -1;
+    }
+
+    &-img2 {
+      position: absolute;
+      padding-top: 7rem;
+      z-index: 1;
+    }
+
     @include sm {
       padding: 0 1rem;
     }

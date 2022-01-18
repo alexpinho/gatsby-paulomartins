@@ -37,7 +37,7 @@ const Portfolio = () => {
         <div className="portfolio-hero">
           <div className="row">
             <div className="big-title-Book">Portfolio </div>
-            <div className="col-xs-offset-1 col-xs-4">
+            <div className="row-description">
               <div className="text-note">
                 Selection of projects carried out by the studio in different
                 contexts, different scales and with varying conditions.

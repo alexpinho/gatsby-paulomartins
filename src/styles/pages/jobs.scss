@@ -2,14 +2,155 @@
   &-hero {
     padding: 0 7rem 0;
 
-    .text-note {
-      padding-top: 2.8rem;
+    @include xl {
+      padding: 0 7rem 0;
+    }
+
+    @include lg {
+      padding: 0 5rem 0;
+    }
+
+    @include md {
+      padding: 0 3rem 0;
+    }
+
+    @include sm {
+      padding: 0 1rem 0;
+    }
+
+    #notes {
+      padding: 0 0 0 3rem;
+      margin-bottom: 1.8rem;
+      display: flex;
+      width: 52vw;
+
+      @include xl {
+        width: 70vw;
+        padding: 4rem 0 0;
+        margin-bottom: -0.5rem;
+      }
+
+      @include lg {
+        padding: 3rem 0 0;
+        align-self: center;
+        width: 75vw;
+        margin-bottom: -1rem;
+      }
+
+      @include md {
+        padding: 2rem 0 0;
+        align-self: center;
+        width: 75vw;
+        margin-bottom: -1rem;
+      }
+
+      @include sm {
+        padding: 2rem 0 0;
+        align-self: center;
+        width: 85vw;
+        margin-bottom: -1rem;
+      }
+    }
+
+    .row {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+
+      @include xl {
+        align-items: center;
+        flex-direction: column;
+      }
+
+      @include lg {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      @include md {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      @include sm {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+
+    #title {
+      @include xl {
+        text-align: center;
+      }
+
+      @include lg {
+        text-align: center;
+      }
+
+      @include md {
+        text-align: center;
+      }
+
+      @include sm {
+        text-align: center;
+      }
     }
   }
 
   &-wrapper {
     display: flex;
-    padding: 0 7rem 7rem;
+    flex-direction: row;
+    padding: 0 7rem 30rem;
+
+    @include xl {
+      padding: 0 7rem 15rem;
+      flex-direction: column;
+    }
+
+    @include lg {
+      padding: 0 5rem 10rem;
+      flex-direction: column;
+    }
+
+    @include md {
+      padding: 0 3rem 25rem;
+      flex-direction: column;
+    }
+
+    @include sm {
+      padding: 0 1rem 25rem;
+      flex-direction: column;
+    }
+
+    margin-top: 4.25rem;
     gap: 3rem;
+
+    &-card {
+      background-color: $primary-color;
+    }
   }
+
+  #wrapper-button {
+    display: flex;
+    padding-left: 80%;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+    color: $secondary-color;
+  }
+
+  #wrapper-button button:hover {
+    transform: translate(0.3rem);
+    transition-duration: 0.4s;
+  }
+}
+
+.alert-enter {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+.alert-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms, transform 300ms;
 }

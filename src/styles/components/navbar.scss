@@ -25,6 +25,7 @@
     &-elements {
       padding: 0.25rem 0;
       font-size: 1.5rem;
+      cursor: pointer;
 
       .navbar-text:hover {
         transition: 0.3s;
@@ -41,7 +42,7 @@
       background: none;
       color: $primary-color;
       border: none;
-      //cursor: pointer;
+      cursor: pointer;
       outline: inherit;
       padding-left: 0.5rem;
       padding-bottom: 0.875rem;

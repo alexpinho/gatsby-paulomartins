@@ -36,6 +36,13 @@
         "card-award-date-4": "Dezembro 2020",
         "contact-title-1": "Entra em contacto",
 
+        "button-back": "VOLTAR",
+
+        "spec-client": "cliente  ",
+        "spec-local": "local  ",
+        "spec-area": "área bruta  ",
+        "spec-state": "estado  ",
+        "spec-photo": "fotógrafo  ",
 
         "jobs-jobs-title": "Jobs",
         "jobs-text-note": "Estamos sempre à procura de arquitetos criativos que se identifiquem com o nosso trabalho do nosso atelier. Se estiver interessado em conhecer-nos e colaborar connosco, preencha o formulário abaixo de acordo com as ofertas disponíveis. Após análise da candidatura, só entramos em contacto com os candidatos selecionados, pelo que lhe agradecemos antecipadamente pelo o interesse e compreensão.",
@@ -45,13 +52,14 @@
         "card-jobs-title-2": "Arquiteto Sénior",
         "card-jobs-title-3": "Artista 3D",
 
-        "button-back": "VOLTAR",
+        "card-jobs-extended-note-2":"Por favor submeta portfolios e trabalhos seus.",
+        "card-jobs-extended-subtitle1-2": "Responsabilidades",
+        "card-jobs-extended-subtitle2-2":"Requisitos",
+        "card-jobs-extended-responsibilities-2":"- Compreender o desenho conceptual dos projectos e desenvolver a documentação necessária para apoiar o projecto arquitectónico nas diferentes fases: desenhos, modelos 3D, documentos escritos e desenhados;<br>- Compreender claramente as leis nacionais e municipais;<br>- Capacidade de identificar problemas técnicos e de concepção e desenvolver soluções de valor acrescentado;<br>- Desenvolver e coordenar documentos de desenvolvimento e construção do projecto: preencher documentação legal, rever projecto, aprovar amostras, visitar e resolver problemas durante a construção;<br>- Pesquisa constante e aprendizagem das novas tendências de design/arquitectura, novas técnicas e processos de construção, materiais, marcas, etc.",
+        "card-jobs-extended-requirements-2":"- Mínimo de 8 anos de experiência em projectos construídos;<br>- Experiência em projectos: mínimo de 4 projectos com escalas diferentes, envolvendo todas as fases dos projectos;<br>- Capacidade de compreender e formular novas ideias conceptuais e de as partilhar com a equipa para discussão;<br>- Capacidade de alcançar prazos apertados e de fornecer actualizações regulares sobre o progresso do trabalho;<br>- Capacidade de trabalhar sob pressão e com prazos apertados;<br>- Criativo, motivado e responsável;<br>- Excelente conhecimento de trabalho de Archicad (obrigatório) / ambiente BIM (obrigatório);<br>- Bons conhecimentos de português falado e escrito;<br>- Capaz de começar a trabalhar imediatamente.",
+        "card-jobs-extended-fill-2":"PREENCHA O FORMULÁRIO",
 
-        "spec-client": "cliente  ",
-        "spec-local": "local  ",
-        "spec-area": "área bruta  ",
-        "spec-state": "estado  ",
-        "spec-photo": "fotógrafo  "
+        "contacts-contacts-title": "Contacte-nos"
 
     }
 }

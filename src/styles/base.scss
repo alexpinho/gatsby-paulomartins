@@ -18,7 +18,7 @@ html,
 body {
   &,
   * {
-    //cursor: none;
+    //cursor: default;
 
     @include xl {
       cursor: default;
@@ -26,8 +26,14 @@ body {
   }
 }
 
+button,
+a {
+  all: unset;
+}
+
 $primary-color: #1e1e1e;
 $secondary-color: #ffffff;
+$third-color: #9b9999;
 
 .big-title-Book {
   font-family: "RecifeDisplay-Book";
@@ -175,10 +181,15 @@ $secondary-color: #ffffff;
   color: rgba($primary-color, 0.5);
 }
 
-.card-jobs-title {
-  font-family: "HelveticaNeue";
-  font-size: 2rem; //32px
+.card-project-title {
+  font-family: "RecifeDisplay-Book";
+  font-size: 2rem;
   font-weight: 400;
+  color: $primary-color;
+
+  @include md {
+    font-size: 1.5rem;
+  }
 }
 
 .big-text-quote {

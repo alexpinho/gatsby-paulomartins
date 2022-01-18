@@ -5,7 +5,6 @@
 @import "./components/navbar.scss";
 @import "./components/footer.scss";
 
-@import "./components/customcursor/customcursor.scss";
 @import "./components/cardProject.scss";
 @import "./components/cardAward.scss";
 @import "./components/cardJobs.scss";
@@ -13,6 +12,8 @@
 @import "./components/cardTeam.scss";
 @import "./components/project.scss";
 @import "./components/award-preview.scss";
+@import "./components/cardJobsPopup.scss";
+@import "./components/cardJobsExtended.scss";
 
 @import "./pages/index.scss";
 @import "./pages/jobs.scss";

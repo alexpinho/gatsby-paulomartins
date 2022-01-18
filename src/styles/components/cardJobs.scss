@@ -1,7 +1,7 @@
 .card-jobs {
-  margin-top: 4.25rem;
-  padding: 1.5rem 2rem 1.5rem 1.5rem;
+  padding: 1.5rem 2rem 0rem 1.5rem;
   background-color: $primary-color;
+
   * {
     color: rgba($secondary-color, 0.9);
   }
@@ -14,8 +14,8 @@
     margin-bottom: 1.5rem;
   }
 
-  &-see {
-    text-transform: uppercase;
-    text-align: right;
+  &-see:hover {
+    transform: translate(0.3rem);
+    transition-duration: 0.25s;
   }
 }

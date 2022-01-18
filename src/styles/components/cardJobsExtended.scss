@@ -1,0 +1,174 @@
+.card-jobs-ext {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  padding: 1rem 2rem 0 1.5rem;
+  overflow: hidden;
+  height: 100%;
+
+  @include xl {
+    flex-direction: column;
+  }
+
+  @include lg {
+    flex-direction: column;
+  }
+
+  @include md {
+    flex-direction: column;
+  }
+
+  @include sm {
+    flex-direction: column;
+  }
+
+  * {
+    color: rgba($secondary-color, 0.9);
+  }
+
+  &-note {
+    padding-top: 5.5rem;
+
+    @include xl {
+      padding-top: 2rem;
+    }
+
+    @include lg {
+      padding-top: 2rem;
+    }
+
+    @include md {
+      padding-top: 2rem;
+    }
+
+    @include sm {
+      padding-top: 2rem;
+    }
+  }
+
+  &-responsibilities,
+  &-requirements {
+    margin-top: 1rem;
+  }
+
+  &-description,
+  &-fill {
+    margin-top: 2.5rem;
+  }
+
+  &-description {
+    @include xl {
+      width: 40%;
+    }
+
+    @include lg {
+      width: 40%;
+    }
+
+    @include md {
+      width: 40%;
+    }
+
+    @include sm {
+      width: 40%;
+    }
+  }
+
+  &-fill {
+    color: $third-color;
+    text-decoration: underline;
+
+    @include xl {
+      position: absolute;
+      margin-top: 30rem;
+    }
+
+    @include lg {
+      position: absolute;
+      margin-top: 33rem;
+    }
+
+    @include md {
+      position: absolute;
+      margin-top: 47rem;
+    }
+
+    @include sm {
+      position: absolute;
+      margin-top: 60rem;
+    }
+  }
+
+  &-fill:hover {
+    transform: translate(0.3rem);
+    transition-duration: 0.4s;
+  }
+
+  &-title {
+    position: absolute;
+    margin-top: -0.3rem;
+  }
+
+  #col-1 {
+    width: 250%;
+    padding-right: 8rem;
+
+    @include xl {
+      margin-top: 1rem;
+    }
+
+    @include lg {
+      margin-top: 1rem;
+    }
+
+    @include md {
+      margin-top: 1rem;
+    }
+
+    @include sm {
+      margin-top: 1rem;
+    }
+  }
+
+  #col-2 {
+    @include xl {
+      margin-top: 1rem;
+    }
+
+    @include lg {
+      margin-top: 1rem;
+    }
+
+    @include md {
+      margin-top: 1rem;
+    }
+
+    @include sm {
+      margin-top: 1rem;
+    }
+  }
+
+  #col-3 {
+    padding-left: 2rem;
+
+    @include xl {
+      margin-top: 1rem;
+      padding-left: 0;
+    }
+
+    @include lg {
+      margin-top: 1rem;
+      padding-left: 0;
+    }
+
+    @include md {
+      margin-top: 1rem;
+      padding-left: 0;
+    }
+
+    @include sm {
+      margin-top: 1rem;
+      padding-left: 0;
+    }
+  }
+}

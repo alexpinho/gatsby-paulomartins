@@ -1,0 +1,61 @@
+.popup {
+  background-color: $primary-color;
+  display: flex;
+  position: absolute;
+  margin: 15rem 7rem 0;
+  z-index: 2;
+  height: 60%;
+
+  @include xl {
+    margin: 24rem 7rem 0;
+
+    height: 80%;
+  }
+
+  @include lg {
+    margin: 20rem 5rem 0;
+    position: absolute;
+    height: 235%;
+  }
+
+  @include md {
+    margin: 17rem 2rem 0;
+    height: 110%;
+  }
+
+  @include sm {
+    margin: 20rem 1rem 0;
+    height: 160%;
+  }
+
+  &-inner {
+    color: $secondary-color;
+    font-size: 1.8rem;
+  }
+
+  &-inner button {
+    padding-top: 1rem;
+    margin-left: 95%;
+
+    @include xl {
+      margin-left: 90%;
+    }
+
+    @include lg {
+      margin-left: 90%;
+    }
+
+    @include md {
+      margin-left: 90%;
+    }
+
+    @include sm {
+      margin-left: 87%;
+    }
+  }
+
+  &-inner button:hover {
+    transform: rotate(360deg);
+    transition-duration: 1s;
+  }
+}

@@ -11,7 +11,6 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Navbar from "./Navbar"
 import Footer from "./Footer"
-//import CustomCursor from "./customcursor/CustomCursor"
 //import "../styles/layout.css"
 import "../styles/applications.scss"
 
@@ -28,7 +27,6 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      {/* <CustomCursor /> */}
       <Navbar siteTitle={data.site.siteMetadata?.title || `Title`} />
       <main>{children}</main>
       <Footer />
