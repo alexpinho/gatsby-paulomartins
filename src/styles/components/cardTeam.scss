@@ -1,6 +1,12 @@
 .card-team {
   margin-top: 4.25rem;
   padding-right: 1rem;
+  flex: 0 0 auto;
+  max-width: 25%;
+
+  @include sm {
+    max-width: 100%;
+  }
 
   &-img {
     width: 100%;
