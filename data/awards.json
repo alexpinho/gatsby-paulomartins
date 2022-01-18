@@ -24,5 +24,158 @@
         "date": "November 2021",
         "country": " Australia",
         "image": "./images/pub3.jpg"
+    },
+
+    {
+        "id": "4",
+        "title": "Interiors Korea",
+        "slug": "award-4",
+        "date": "October 2020",
+        "country": " ",
+        "image": "./images/pub4.jpg"
+    },
+
+    {
+        "id": "5",
+        "title": "Diseno Interior",
+        "slug": "award-5",
+        "date": "October 2020",
+        "country": " ",
+        "image": "./images/pub5.jpg"
+    },
+
+    {
+        "id": "6",
+        "title": "City Houses",
+        "slug": "award-6",
+        "date": "June 2020",
+        "country": "Spain",
+        "image": "./images/pub6.jpg"
+    },
+
+    {
+        "id": "7",
+        "title": "Villa Journal",
+        "slug": "award-7",
+        "date": "April 2020",
+        "country": "Czech Republic",
+        "image": "./images/pub7.jpg"
+    },
+
+    {
+        "id": "8",
+        "title": "Casa Viva",
+        "slug": "award-8",
+        "date": "April 2020",
+        "country": "Spain",
+        "image": "./images/pub8.jpg"
+    },
+
+    {
+        "id": "9",
+        "title": "Atititude Magazine",
+        "slug": "award-9",
+        "date": "September 2019",
+        "country": "Portugal",
+        "image": "./images/pub9.jpg"
+    },
+
+    {
+        "id": "10",
+        "title": "My Private Spa",
+        "slug": "award-10",
+        "date": "June 2019",
+        "country": "Germany",
+        "image": "./images/pub10.jpg"
+    },
+
+    {
+        "id": "11",
+        "title": "Interior Design",
+        "slug": "award-11",
+        "date": "June 2019",
+        "country": "New york",
+        "image": "./images/pub11.jpg"
+    },
+
+    {
+        "id": "12",
+        "title": "An newspaper",
+        "slug": "award-12",
+        "date": "April 2019",
+        "country": "Korea",
+        "image": "./images/pub12.jpg"
+    },
+
+    {
+        "id": "13",
+        "title": "Store Design",
+        "slug": "award-13",
+        "date": "March 2019",
+        "country": "Shangai",
+        "image": "./images/pub13.jpg"
+    },
+
+    {
+        "id": "14",
+        "title": "Magazine JN",
+        "slug": "award-14",
+        "date": "April 2018",
+        "country": "Portugal",
+        "image": "./images/pub14.jpg"
+    },
+
+    {
+        "id": "15",
+        "title": "Trens Magazine",
+        "slug": "award-15",
+        "date": "March 2018",
+        "country": "Portugal",
+        "image": "./images/pub15.jpg"
+    },
+
+    {
+        "id": "16",
+        "title": "Roof Magazine",
+        "slug": "award-16",
+        "date": "March 2018",
+        "country": "Portugal",
+        "image": "./images/pub16.jpg"
+    },
+
+    {
+        "id": "17",
+        "title": "Makeover",
+        "slug": "award-17",
+        "date": "January 2018",
+        "country": "Germany",
+        "image": "./images/pub17.jpg"
+    },
+
+    {
+        "id": "18",
+        "title": "Architecture Today",
+        "slug": "award-18",
+        "date": "December 2017",
+        "country": "Spain",
+        "image": "./images/pub18.jpg"
+    },
+
+    {
+        "id": "19",
+        "title": "Magazine JN",
+        "slug": "award-19",
+        "date": "April 2017",
+        "country": "Portugal",
+        "image": "./images/pub19.jpg"
+    },
+
+    {
+        "id": "20",
+        "title": "Live in Design",
+        "slug": "award-20",
+        "date": "December 2014",
+        "country": "China",
+        "image": "./images/pub20.jpg"
     }
 ]

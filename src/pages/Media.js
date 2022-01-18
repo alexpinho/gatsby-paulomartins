@@ -17,7 +17,7 @@ const Media = () => {
             country
             image {
               childImageSharp {
-                fluid(maxWidth: 350) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
