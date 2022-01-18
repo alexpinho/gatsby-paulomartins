@@ -9,10 +9,10 @@ import CardAward from "../components/CardAward"
 import pt from "../locales/pt.json"
 import en from "../locales/en.json"
 
-import { StaticImage } from "gatsby-plugin-image"
+//import { StaticImage } from "gatsby-plugin-image"
 
 //images
-//import banner from "../images/banner-1.jpg"
+import banner from "../images/banner-1.jpg"
 import portfolio1 from "../images/homeportfolio-1.png"
 import portfolio2 from "../images/homeportfolio-2.jpg"
 import portfolio3 from "../images/homeportfolio-3.jpg"
@@ -91,7 +91,7 @@ function Home() {
             alt="banner"
             className="home-hero-banner"
           />
-          {/* <img src={banner} className="home-hero-banner" alt="" /> */}
+          <img src={banner} className="home-hero-banner" alt="" />
         </div>
 
         <motion.div ref={ref} className="home-portfolio" animate={animation}>

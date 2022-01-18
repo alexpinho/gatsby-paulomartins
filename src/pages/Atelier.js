@@ -23,19 +23,31 @@ const Atelier = () => {
     <Layout>
       <Seo title="Atelier" />
       <div className="atelier">
-        <motion.div
-          className="atelier-hero"
-          initial={{ opacity: 0, translateY: 20 }}
-          animate={{
-            opacity: 1,
-            translateY: 0,
-            transition: { ...transition },
-          }}
-        >
-          <div className="big-title-Book col-xs-6">Meet our</div>
-          <div className="big-title-BookItalic col-xs-3">team</div>
+        <div className="atelier-hero">
+          <motion.div
+            className="big-title-Book col-xs-6"
+            initial={{ opacity: 0, translateY: 20 }}
+            animate={{
+              opacity: 1,
+              translateY: 0,
+              transition: { ...transition },
+            }}
+          >
+            Meet our
+          </motion.div>
+          <motion.div
+            className="big-title-BookItalic col-xs-3"
+            initial={{ opacity: 0, translateY: 20 }}
+            animate={{
+              opacity: 1,
+              translateY: 0,
+              transition: { ...transition },
+            }}
+          >
+            team
+          </motion.div>
           <img src={team} className="atelier-hero-banner col-xs-5" alt="team" />
-        </motion.div>
+        </div>
         <div className="atelier-information">
           <div className="text atelier-information-1">
             Paulo Martins Arquitectura assumes itself as a studio focused on
