@@ -191,3 +191,30 @@ $secondary-color: #ffffff;
     font-size: 3rem;
   }
 }
+
+.error-title-Regular {
+  font-family: "HelveticaNeue";
+  font-size: 9rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: $primary-color;
+  text-decoration: none;
+  text-align: center;
+
+  @include sm {
+    font-size: 4.5rem;
+  }
+}
+
+.error-text {
+  font-family: "HelveticaNeue";
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: $primary-color;
+  text-decoration: none;
+  text-align: center;
+
+  @include md {
+    font-size: 1rem;
+  }
+}
